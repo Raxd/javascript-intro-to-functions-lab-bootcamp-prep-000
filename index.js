@@ -18,4 +18,6 @@ function sayHiToGrandma(string){
   var abue = "I can\'t hear you!"
   var kyes = "YES INDEED!"
        return abue
+       return kyes
+      
 }
