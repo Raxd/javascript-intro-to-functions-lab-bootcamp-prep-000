@@ -1,3 +1,3 @@
-function shout(text) {
-  console.log(`text ${text}`);
+function shout(string) {
+  return string.toUpperCase()
 }
