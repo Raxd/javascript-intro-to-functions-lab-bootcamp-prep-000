@@ -15,6 +15,5 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string){
-  var mensaje = "I can\'t hear you if "+ `${string}` + "is lowercase"
-  return mensaje.toUpperCase()
+  return   "I can\'t hear you if `string` is lowercase"
 }
